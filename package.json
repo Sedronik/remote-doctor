@@ -1,0 +1,30 @@
+{
+  "name": "remote-doctor",
+  "version": "0.0.1",
+  "description": "\"Video conferencing app for doctors and clinics\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sedronik/remote-doctor.git"
+  },
+  "keywords": [
+    "Doctor",
+    "health",
+    "video",
+    "audio",
+    "patient"
+  ],
+  "author": "Sedronik Team <timothy.onyiuke@sedronik.com>",
+  "contributors": [
+    "Timothy Onyiuke <timothy.onyiuke@sedronik.com>",
+    "Stephen Gabriel <stephen.gabriel@sedronik.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sedronik/remote-doctor/issues"
+  },
+  "homepage": "https://github.com/Sedronik/remote-doctor#readme"
+}
